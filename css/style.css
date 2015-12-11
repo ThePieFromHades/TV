@@ -1,7 +1,9 @@
 html {
     background-color: #000000;
+    cursor: url(../images/cursor.png), auto;
 }
 
 body {
-
+    
 }
+
